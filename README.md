@@ -7,5 +7,6 @@ chess (8x8 array of IPiece)
   rook, knight, bishop etc. implements IPiece
   
   methods: move, possible moves, special moves (castling, promoting, etc)
-  
+ 
+ Unfinished:
 GUI (all tiles are buttons)
