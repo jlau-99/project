@@ -1,5 +1,7 @@
 # project
 
+A chess board that only allows valid moves.
+
 Chess:
 
 Board contains 8x8 Squares, Square contains IPiece
